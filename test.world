@@ -20,6 +20,6 @@ floorplan
 bigbob
 (
       name "bob1"
-      pose [38.559 -1.959 0.000 -53.630]
+      pose [33.0 -8.6 0.000 -90.0]
 
 )
