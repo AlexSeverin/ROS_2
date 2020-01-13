@@ -1,10 +1,14 @@
 define bigbob position
 (
+<<<<<<< HEAD
       bitmap "face.png"
+=======
+>>>>>>> 7802b1148280cb277008923501c789d9403c905c
       size [0.5 0.5 0.5]
 
       # the shape of Bigbob
 
+<<<<<<< HEAD
 #      block
  #     (
   #          points 6
@@ -16,6 +20,20 @@ define bigbob position
   #          point[0] [0.75 0]
   #          z [0 1]
   #    )
+=======
+      block
+      (
+            points 6
+            point[5] [0 0]
+            point[4] [0 1]
+            point[3] [0.75 1]
+            point[2] [1 0.75]
+            point[1] [1 0.25]
+            point[0] [0.75 0]
+            z [0 1]
+      )
+
+>>>>>>> 7802b1148280cb277008923501c789d9403c905c
 
 
       bigbobs_sonars_lf()
