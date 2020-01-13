@@ -11,11 +11,9 @@ window
 # load an environment bitmap
 floorplan
 (
-<<<<<<< HEAD
+
    bitmap "ALESEV.png"
-=======
-   bitmap "Letters_bckgnd.png"
->>>>>>> 7802b1148280cb277008923501c789d9403c905c
+
    size [80.000 20.000 2.000]
 )
 
@@ -23,9 +21,5 @@ bigbob
 (
       name "bob1"
       pose [38.559 -1.959 0.000 -53.630]
-<<<<<<< HEAD
-      #color "green"
-=======
-      color "green"
->>>>>>> 7802b1148280cb277008923501c789d9403c905c
+
 )
